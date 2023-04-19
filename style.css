@@ -76,6 +76,7 @@ a{
     height: 350px;
     width: 40%;
     margin-left: 150px;
+    float: left;
     padding: 20px;
 }
 .text9{
